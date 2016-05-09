@@ -1,4 +1,4 @@
 # hello-world
-It's my first
+It's my first try!<br>
 Trainee Front End Developer & TreeHouse student!
-Also a middle age mum in need of a new challenge and focus in my life!
+Plus a middle age mum in need of a new challenge and focus in my life!
